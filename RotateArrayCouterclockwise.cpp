@@ -36,7 +36,7 @@ int main() {
     int d = 2;
 
     cout << "Original Array: ";
-    for (int num : arr) {
+    for (int num : arr) { //can use normal for loop
         cout << num << " ";
     }
     cout << endl;
