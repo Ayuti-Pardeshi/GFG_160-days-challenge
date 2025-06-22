@@ -3,7 +3,7 @@
 #include <unordered_map>
 #include <algorithm>
 using namespace std;
-
+//class in c++
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& arr) {
