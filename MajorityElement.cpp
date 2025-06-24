@@ -10,7 +10,7 @@ public:
         unordered_map<int, int> freq;
         vector<int> result;
         int n = arr.size();
-
+//read
         // Count frequency of each element
         for (int num : arr) {
             freq[num]++;
